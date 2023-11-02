@@ -62,6 +62,7 @@ public class SseUtil {
                 sseEmitterMap.remove(userId);
                 log.info("用户{},消息id:{},推送异常:{}", userId,messageId, e.getMessage());
                 sseEmitter.complete();
+                String a = "";
                 return false;
             }
         }else {
