@@ -12,6 +12,7 @@ public class TestServiceImpl implements TestService {
     public Object testOptional() {
         User user = getNullUser();
         System.out.println(user.getName());
+        String a = null;
         return "成功了";
     }
 
