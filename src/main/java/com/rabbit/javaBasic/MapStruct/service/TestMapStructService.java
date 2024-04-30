@@ -30,9 +30,9 @@ public class TestMapStructService {
         structParam.setAddress("param地址");
         structParam.setPhone("112312312");
 
-        StructDto dto = structEntityConvert.toDto(structParam);
-        System.out.println(dto);
-        return dto;
+//        StructDto dto = structEntityConvert.toDto(structParam);
+//        System.out.println(dto);
+        return new StructDto();
     }
 
 }

@@ -17,6 +17,10 @@
           <entry name="$PROJECT_DIR$/../../../maven/mvnrepository/org/mapstruct/mapstruct/1.5.5.Final/mapstruct-1.5.5.Final.jar" />
           <entry name="$PROJECT_DIR$/../../../maven/mvnrepository/org/projectlombok/lombok/1.18.28/lombok-1.18.28.jar" />
           <entry name="$PROJECT_DIR$/../../../maven/mvnrepository/org/projectlombok/lombok-mapstruct-binding/0.2.1/lombok-mapstruct-binding-0.2.1.jar" />
+          <entry name="$PROJECT_DIR$/../../../maven/mvnrepository/org/mapstruct/mapstruct-processor/1.5.5.Final/mapstruct-processor-1.5.5.Final.jar" />
+          <entry name="$PROJECT_DIR$/../../../maven/mvnrepository/org/mapstruct/mapstruct/1.5.5.Final/mapstruct-1.5.5.Final.jar" />
+          <entry name="$PROJECT_DIR$/../../../maven/mvnrepository/org/projectlombok/lombok/1.18.28/lombok-1.18.28.jar" />
+          <entry name="$PROJECT_DIR$/../../../maven/mvnrepository/org/projectlombok/lombok-mapstruct-binding/0.2.1/lombok-mapstruct-binding-0.2.1.jar" />
         </processorPath>
         <module name="javaBasics" />
       </profile>
